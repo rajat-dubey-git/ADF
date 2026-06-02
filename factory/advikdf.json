@@ -1,0 +1,15 @@
+{
+	"name": "advikdf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "896ba9aa-05e4-4365-822a-c071be919e29",
+		"tenantId": "64fdf4cd-d3f3-4234-a0cd-1cff707d622e"
+	}
+}
